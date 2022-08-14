@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About
+title: بیوگرافی دکتر سالومه سالاریان
 permalink: /about/
+published: true
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+دکتر سالومه سالاریان متولدسال 1355 در شهر تهران تحصیلات خود را در دبستان شهدای چیذر قیطریه شروع و پس از گذراندن دوره های راهنمایی و دبیرستان در مدارس گلشن، امیدوار و کوثر، در سال 1373 وارد دانشگاه علوم پزشکی ایران شدند. ایشان پس از فارغ التحصیلی دوره پزشکی در سال 1380، دوره رزیدنتی خود را در تخصص گوش و گلو و بینی و جراحی سر و گردن در سال 1382 در دانشگاه علوم پزشکی ایران آغاز نمودند و در سال 1386 بورد تخصصی ENT را دریافت کردند و پس از آن در سال 1390 موفق به دریافت فلوشیپ جراحی پلاستیک صورت از دانشگاه کلورادو آمریکا شدند.<br>
+<br>
+وبسایت : [فیس لیفت سنتر](https://faceliftcenter.ir/)
+<br>
+<br>
+![](https://faceliftcenter.ir/wp-content/uploads/2014/04/%D8%AF%DA%A9%D8%AA%D8%B1-%D8%B3%D8%A7%D9%84%D9%88%D9%85%D9%87-%D8%B3%D8%A7%D9%84%D8%A7%D8%B1%DB%8C%D8%A7%D9%86-3-1024x467.jpg)
